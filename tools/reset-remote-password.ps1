@@ -9,8 +9,8 @@ if ($otherusername -EQ "") {
 }
 else {
     # Define remote server credentials
+    $Server = "server name or ip"           # Replace with the server's name or IP
 
-    # #$Server = "server name or ip"           # Replace with the server's name or IP
     # #$Username = "administrator username"    # Replace with your username
     # #$Password = "administrator password"    # Replace with your password
 
